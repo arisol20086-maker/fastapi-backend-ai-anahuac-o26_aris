@@ -1,0 +1,6 @@
+/farm-env
+/__pycache__
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
